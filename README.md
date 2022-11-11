@@ -1,2 +1,2 @@
 # Basic_CRUD_application
-Perpose of building this application is to Test Spring Boot features. 
+Purpose of building this application is to Test Spring Boot features. 
